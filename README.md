@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kiruthika S
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning React, HTML,CSS, JS
-- 💞️ I’m looking to collaborate with frontend projects in react
-- 📫 How to reach me ...
+- 👋 Hi, I’m kiruthika S.
+- 👀 I’m interested in frontend web development.
+- 🌱 I’m currently learning React JS, HTML,CSS and JS,
+- 💞️ I’m looking to collaborate with frontend projects in react JS.
+- 📫 Reach out to me skiruthika6999@gmail.com.
 
 <!---
 kiruthikasv69/kiruthikasv69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
