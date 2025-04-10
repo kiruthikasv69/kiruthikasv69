@@ -1,7 +1,4 @@
-- 👋 Hi, I’m kiruthika S.
-- 👀 I’m interested in frontend web development.
-- 🌱 I’m currently learning React JS, HTML,CSS and JS,
-- 💞️ I’m looking to collaborate with frontend projects in react JS.
+- 👋 Hi, I’m kiruthika S
 - 📫 Reach out to me skiruthika6999@gmail.com.
 
 <!---
