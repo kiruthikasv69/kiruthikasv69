@@ -1,7 +1,9 @@
-- 👋 Hi, I’m kiruthika S
-- 📫 Reach out to me skiruthika6999@gmail.com.
-- I am a cloud and devops enthusiast
-- AWS Certified Solution Architect Associate 
+🚀 Cloud & DevOps Enthusiast | AWS Certified Solutions Architect – Associate
+💼 Software Engineer at Cognizant (CTS)
+📚 Exploring Cloud, DevOps, and Automation
+📝 I write blogs on Medium to simplify complex cloud concepts
+📧 Reach me at: skiruthika6999@gmail.com
+✍️ Read my blogs: medium.com/@skiruthika6999
 
 
 <!---
