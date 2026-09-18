@@ -1,4 +1,4 @@
-IT Analyst C2 @ TCS | AWS Certified Solutions Architect – Associate | Passionate about Cloud & DevOps | I write at https://medium.com/@skiruthika6999
+IT Analyst C2 @ TCS | AWS Certified Solutions Architect – Associate | Passionate about Cloud & DevOps 
 
 <!---
 kiruthikasv69/kiruthikasv69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
